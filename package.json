@@ -1,0 +1,48 @@
+{
+    "app_name": "Artifact",
+    "description": "A Lovecraftian adult text adventure about mind control and bimbofication.",
+    "dom_storage_quota": "8000",
+    "keywords": [
+        "game",
+        "lovecraft",
+        "mesmerizers",
+        "bimbo",
+        "bimbofication",
+        "futanari"
+    ],
+    "main": "Artifact v0.73.html",
+    "name": "Artifact",
+    "version": "v0.73",
+    "webexe_settings": {
+        "blacklist": "",
+        "custom_script": "",
+        "download_dir": "",
+        "export_dir": "C:/Users/Gio/Desktop/w2e",
+        "force_download": false,
+        "linux-x32": false,
+        "linux-x64": false,
+        "mac-x64": false,
+        "nw_compression_level": 9,
+        "nw_version": "0.70.0",
+        "output_pattern": "",
+        "sdk_build": false,
+        "uncompressed_folder": false,
+        "whitelist": "",
+        "windows-x32": false,
+        "windows-x64": true
+    },
+    "webkit": {},
+    "window": {
+        "height": 1080,
+        "icon": "ico.png",
+        "id": "Artifact",
+        "min_height": 720,
+        "min_width": 1280,
+        "resizable": true,
+        "show": true,
+        "show_in_taskbar": true,
+        "title": "Artifact",
+        "visible": true,
+        "width": 1920
+    }
+}
